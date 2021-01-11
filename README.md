@@ -3,7 +3,9 @@ new portfolio site for design/development work!
 
 Check out https://www.siljawalenius.com/ for the full experience 
 
-(Mobile version coming January 11!) 
+(Mobile version out now! 
+
+
 
 ## Cool recognitions
 
