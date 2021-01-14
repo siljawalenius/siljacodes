@@ -3,11 +3,14 @@ new portfolio site for design/development work!
 
 Check out https://www.siljawalenius.com/ for the full experience 
 
-(Mobile version currently in progress!) 
+(Mobile version out now! 
+
+
 
 ## Cool recognitions
 
 SuperHi student hall of fame: https://www.superhi.com/hall-of-fame/portfolio-by-silja
+It's Nice That: https://www.itsnicethat.com/articles/double-click-january-2021-get-nostalgic-digital-130121
 
 
 ## Lighthouse Scores
