@@ -82,7 +82,7 @@ runContent = () => {
 
     //for hero section slot machine type of deal
     const shortNouns = ['cyclist', 'runner', 'yogi', 'gemini', 'creative','coder', 'hippie', 'techie', 'psychic', 'kayaker']
-    const longNouns = ['chalamet fan', 'coffee addict', 'rock climber', 'student', 'photographer', 'designer', 'aerialist', 'camper', 'art nerd', 'wanabe surfer', 'optimist']
+    const longNouns = ['chalamet fan', 'coffee addict', 'rock climber', 'student', 'photographer', 'designer', 'circus artist', 'camper', 'art nerd', 'wanabe surfer', 'optimist']
     const shortWord = document.querySelector('span.shortword')
     const longWord = document.querySelector('span.longword')
     //see in old.js for the prev. 
