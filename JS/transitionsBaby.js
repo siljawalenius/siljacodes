@@ -33,6 +33,7 @@ barba.init({
             },
           });
 
+          //i totally should have just used datasets for this ugh
           if (trigger.classList.contains("blue")) {
             wiper.style.backgroundColor = "var(--blue)";
           } else if (trigger.classList.contains("pink")) {
@@ -60,7 +61,6 @@ barba.init({
           const proj = next.container.querySelector(".project-container");
 
           timeline
-
             .set(proj, { opacity: 0.25, x: -700 })
             .to(proj, { opacity: 1, x: 0 }, 0)
             .to(wiper, { x: "100%" }, 1);

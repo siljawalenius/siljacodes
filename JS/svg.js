@@ -155,6 +155,7 @@ placeElements = () => {
   nameWave.style.top = window.pageYOffset + nameY + `px`;
   nameWave.style.left = nameX + `px`;
   nameWave.style.width = nameW - 6 + `px`;
+  nameWave.classList.add("placed")
 
   if (nameY === 0 || nameX === 0) {
     nameWave.style.top = `380px`;
@@ -163,10 +164,11 @@ placeElements = () => {
 
     pronounceText.style.top = `270px`;
     pronounceText.style.left = `357.43px`;
+
+    nameWave.classList.add("placed")
   }
 
   //add event listener to name on mobile 
-
   
     name.addEventListener("click", function (){
       pronounceText.classList.add("visible")
