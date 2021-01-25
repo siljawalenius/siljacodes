@@ -3,7 +3,7 @@ new portfolio site for design/development work!
 
 Check out https://www.siljawalenius.com/ for the full experience 
 
-(Mobile version out now! 
+* Dark mode coming soon!! *
 
 
 
